@@ -22,10 +22,10 @@
 ![컨트롤러](./img/참고이미지4.png)
 - 동영상
 > VR 컨트롤러 관련 참고 영상
-[![유튜브이미지](./img/유튜브이미지1.png)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
-[![유튜브이미지](./img/유튜브이미지2.png)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
+[![유튜브이미지](./img/유튜브이미지1.PNG)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
+[![유튜브이미지](./img/유튜브이미지2.PNG)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
 > VR 내부시스템 및 서브컨텐츠 참고 영상
-[![유튜브이미지](./img/유튜브이미지3.png)](https://www.youtube.com/watch?v=JRcF0NqOKBI)
+[![유튜브이미지](./img/유튜브이미지3.PNG)](https://www.youtube.com/watch?v=JRcF0NqOKBI)
 <br><br>
 # [대표 이미지]
 ![대표이미지](./img/대표이미지.png)
@@ -69,6 +69,3 @@
 > 2. 대부분 청정한 컬러를 사용하여 자연적 느낌을 연출 할 예정입니다.
 
 > 3. 최대한 일상적이고 자연적인 음향을 사용하되, 각 지형에 따라 특색있는 음향을 사용할 예정입니다.
-<br>
-
-## 4. 기술
