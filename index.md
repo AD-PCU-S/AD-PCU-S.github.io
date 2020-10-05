@@ -16,25 +16,25 @@
 <br><br>
 # [관련이미지 & 동영상]
 - 이미지
-![UI](<img src="./img/UI제출용.PNG" width="500">)
-![컨셉1](<img src="./img/참고이미지1.png" width="700">)
-![컨셉2](<img src="./img/참고이미지2.png" width="700">)
-![컨셉3](<img src="./img/참고이미지3.png" width="700">)
-![컨트롤러](<img src="./img/참고이미지4.png" width="700">)
+![UI](./img/UI제출용.PNG)
+![컨셉1](./img/참고이미지1.png)
+![컨셉2](./img/참고이미지2.png)
+![컨셉3](./img/참고이미지3.png)
+![컨트롤러](./img/참고이미지4.png)
 - 동영상
 > VR 컨트롤러 관련 참고 영상
 
-[![유튜브이미지](<img src="./img/유튜브이미지1.PNG" width="700">)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
-[![유튜브이미지](<img src="./img/유튜브이미지2.PNG" width="700">)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
+[![유튜브이미지](./img/유튜브이미지1.PNG)](https://www.youtube.com/watch?v=JJVLjTLIW-Y)
+[![유튜브이미지](./img/유튜브이미지2.PNG)](https://www.youtube.com/watch?v=c3C0qMbMxq0)
 
 > VR 내부시스템 및 서브컨텐츠 참고 영상
 
-[![유튜브이미지](<img src="./img/유튜브이미지3.PNG" width="700">)](https://www.youtube.com/watch?v=Ue2938dkp1I&t=15102s)
-[![유튜브이미지](<img src="./img/유튜브이미지4.PNG" width="700">)](https://www.youtube.com/watch?v=59qGZfQL4HE)
+[![유튜브이미지](./img/유튜브이미지3.PNG)](https://www.youtube.com/watch?v=Ue2938dkp1I&t=15102s)
+[![유튜브이미지](./img/유튜브이미지4.PNG)](https://www.youtube.com/watch?v=59qGZfQL4HE)
 
 <br><br>
 # [대표 이미지]
-![대표이미지](<img src="./img/대표이미지.png" width="700">)
+![대표이미지](./img/대표이미지.png>)
 
 <br><br>
 # [컨셉 & 대표이미지 기반 작품묘사]
