@@ -29,8 +29,8 @@
 
 > VR 내부시스템 및 서브컨텐츠 참고 영상
 
-[![유튜브이미지](./img/유튜브이미지3.PNG)](https://www.youtube.com/watch?v=Ue2938dkp1I&t=15102s)
-[![유튜브이미지](./img/유튜브이미지4.PNG)](https://www.youtube.com/watch?v=59qGZfQL4HE)
+[![유튜브이미지](./img/유튜브 이미지 3.PNG)](https://www.youtube.com/watch?v=Ue2938dkp1I&t=15102s)
+[![유튜브이미지](./img/유튜브 이미지 4.PNG)](https://www.youtube.com/watch?v=59qGZfQL4HE)
 
 <br><br>
 # [대표 이미지]
