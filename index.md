@@ -16,7 +16,7 @@
 <br><br>
 # [관련이미지 & 동영상]
 - 이미지
-![UI](img src="./img/UI제출용.PNG" width="700")
+![UI](<img src="./img/UI제출용.PNG" width="500">)
 ![컨셉1](<img src="./img/참고이미지1.png" width="700">)
 ![컨셉2](<img src="./img/참고이미지2.png" width="700">)
 ![컨셉3](<img src="./img/참고이미지3.png" width="700">)
