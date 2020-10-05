@@ -80,14 +80,14 @@
 ## 1. 게임 오브젝트 분해
 |연번|오브젝트 이름|오브젝트 이미지|
 |:---:|:---: |:---:|
-|1|플레이어|./img/플레이어손.png|
-|2|퀘스트NPC|./img/NPC.png|
-|3|도구ㅡ이동수단|./img/차.png|
-|4|도구ㅡ연료|./img/연로.png|
-|5|도구ㅡ식량|./img/식량.png|
-|6|맵ㅡ첫번째 맵(Man)|./img/맵1.png|
-|7|맵ㅡ두번째 맵(파이프)|./img/맵2.png|
-|8|맵ㅡ세번째 맵(Tower)|./img/맵3.png|
+|1|플레이어|<img src="./img/플레이어손.png" width="400">|
+|2|퀘스트NPC|<img src="./img/NPC.png" width="400">|
+|3|도구ㅡ이동수단|<img src="./img/차.png" width="400">|
+|4|도구ㅡ연료|<img src="./img/연로.png" width="400">|
+|5|도구ㅡ식량|<img src="./img/식량.png" width="400">|
+|6|맵ㅡ첫번째 맵(Man)|<img src="./img/맵1.png" width="400">|
+|7|맵ㅡ두번째 맵(파이프)|<img src="./img/맵2.png" width="400">|
+|8|맵ㅡ세번째 맵(Tower)|<img src="./img/맵3.png" width="400">|
 
 ## 2. 파라미터(속성)
 
