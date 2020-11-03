@@ -14,4 +14,4 @@
        b. 서브 오브젝트 배치 및 맵 구현 - 30%
 
 ## 영상
-![개발1,2주차](https://gifs.com/gif/2020-lastad-K1456n)
+![개발1,2주차](<iframe src='//gifs.com/embed/2020-lastad-K1456n' frameborder='0' scrolling='no' width='1920px' height='1000px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>)
