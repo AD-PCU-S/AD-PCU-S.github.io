@@ -14,4 +14,4 @@
        b. 서브 오브젝트 배치 및 맵 구현 - 30%
 
 ## 영상
-![Uploading 2020_LastAD_2Week.gif…]()
+![2020_LastAD_2Week](https://user-images.githubusercontent.com/71679992/97936694-b3f3f200-1dbf-11eb-811d-da146987ba25.gif)
