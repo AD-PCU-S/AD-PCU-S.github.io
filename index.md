@@ -23,9 +23,9 @@
 12. [주차별 실습]  
     a. [1~2주차 실습](files/w0102/1and2_Week.md)  
     b. [3주차 실습](files/w03/w03.md)  
-    c. [4주차 실습](files/w04/w04.md)
-    d. [5주차 실습](files/w05/w05.md)
-    e. [6주차 실습](files/w06/w06.md)
+    c. [4주차 실습](files/w04/w04.md)  
+    d. [5주차 실습](files/w05/w05.md)  
+    e. [6주차 실습](files/w06/w06.md)  
 
 
 # [컨셉]
